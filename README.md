@@ -57,5 +57,5 @@ Contributions are welcome! Feel free to open an **issue** or **pull request**.
 MIT License. See `LICENSE` for details.
 
 ---
-**Made with ❤️ by Prathamesh**
+**Made with ❤️ by Our Team**
 

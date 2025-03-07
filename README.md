@@ -15,7 +15,7 @@ This repository contains the firmware for a **drone flight computer** using the 
 - **MPU6050** (IMU Sensor)
 - **ESCs & Brushless Motors**
 - **LiPo Battery**
-- 
+  
 ## 📜 Installation
 1. Clone the repository:
    ```sh
